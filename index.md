@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Screen NFT
 
 You can use the [editor on GitHub](https://github.com/yourfriend-gaurav-gurjar/nft-analysis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
